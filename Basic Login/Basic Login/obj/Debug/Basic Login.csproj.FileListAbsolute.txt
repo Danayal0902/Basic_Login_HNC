@@ -1,0 +1,14 @@
+C:\Phone Apps\Basic Login\Basic Login\obj\Debug\ResolveAssemblyReference.cache
+C:\Phone Apps\Basic Login\Basic Login\obj\Debug\App.g.i.cs
+C:\Phone Apps\Basic Login\Basic Login\obj\Debug\MainPage.g.i.cs
+C:\Phone Apps\Basic Login\Basic Login\obj\Debug\Basic Login.g.resources
+C:\Phone Apps\Basic Login\Basic Login\Bin\Debug\ApplicationIcon.png
+C:\Phone Apps\Basic Login\Basic Login\Bin\Debug\Background.png
+C:\Phone Apps\Basic Login\Basic Login\Bin\Debug\Basic Login.dll
+C:\Phone Apps\Basic Login\Basic Login\Bin\Debug\Basic Login.pdb
+C:\Phone Apps\Basic Login\Basic Login\Bin\Debug\AppManifest.xaml
+C:\Phone Apps\Basic Login\Basic Login\Bin\Debug\Basic_Login.xap
+C:\Phone Apps\Basic Login\Basic Login\obj\Debug\Basic Login.dll
+C:\Phone Apps\Basic Login\Basic Login\obj\Debug\Basic Login.pdb
+C:\Phone Apps\Basic Login\Basic Login\obj\Debug\XapCacheFile.xml
+C:\Phone Apps\Basic Login\Basic Login\obj\Debug\Calculator.g.i.cs
